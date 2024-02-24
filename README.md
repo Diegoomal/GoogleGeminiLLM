@@ -3,16 +3,22 @@
 ## Run Project
 
 ```
-conda deactivate
 
-conda env create -n project-env -f ./env.yml
+conda deactivate
 
 conda activate project-env
 
-conda env update -n project-env -f ./env.yml
 ```
 
-# Links
+```
+
+conda env create -n project-env -f ./env.yml
+
+conda env update -n project-env -f ./env.yml
+
+```
+
+## Links
 
 [github](https://github.com/Diegoomal)
 
